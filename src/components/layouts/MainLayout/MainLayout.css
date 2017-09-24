@@ -1,0 +1,26 @@
+.MainLayout-mainZone {
+	position: relative;
+}
+
+.MainLayout-navbar {
+	position: fixed;
+	display: flex;
+	top: 0;
+	left: 0;
+	height: 70px;
+	width: 70px;
+	z-index: 5;
+}
+
+.MainLayout-logoZone {
+	display: inline-flex;
+	height: 70px;
+	width: 70px;
+	justify-content: center;
+	align-items: center;
+}
+
+.MainLayout-logo {
+	height: 50px;
+	width: 50px;
+}
